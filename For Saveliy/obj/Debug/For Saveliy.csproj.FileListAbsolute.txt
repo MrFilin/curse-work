@@ -1,0 +1,20 @@
+C:\Users\Vlad\source\repos\For Saveliy\bin\Debug\For Saveliy.exe.config
+C:\Users\Vlad\source\repos\For Saveliy\bin\Debug\For Saveliy.exe
+C:\Users\Vlad\source\repos\For Saveliy\bin\Debug\For Saveliy.pdb
+C:\Users\Vlad\source\repos\For Saveliy\obj\Debug\For Saveliy.csprojAssemblyReference.cache
+C:\Users\Vlad\source\repos\For Saveliy\obj\Debug\For_Saveliy.Form1.resources
+C:\Users\Vlad\source\repos\For Saveliy\obj\Debug\For_Saveliy.Properties.Resources.resources
+C:\Users\Vlad\source\repos\For Saveliy\obj\Debug\For Saveliy.csproj.GenerateResource.cache
+C:\Users\Vlad\source\repos\For Saveliy\obj\Debug\For Saveliy.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\source\repos\For Saveliy\obj\Debug\For Saveliy.exe
+C:\Users\Vlad\source\repos\For Saveliy\obj\Debug\For Saveliy.pdb
+C:\Users\Савелий Карагаев\Desktop\код для практики\For Saveliy\bin\Debug\For Saveliy.exe.config
+C:\Users\Савелий Карагаев\Desktop\код для практики\For Saveliy\bin\Debug\For Saveliy.exe
+C:\Users\Савелий Карагаев\Desktop\код для практики\For Saveliy\bin\Debug\For Saveliy.pdb
+C:\Users\Савелий Карагаев\Desktop\код для практики\For Saveliy\obj\Debug\For Saveliy.csprojAssemblyReference.cache
+C:\Users\Савелий Карагаев\Desktop\код для практики\For Saveliy\obj\Debug\For_Saveliy.Form1.resources
+C:\Users\Савелий Карагаев\Desktop\код для практики\For Saveliy\obj\Debug\For_Saveliy.Properties.Resources.resources
+C:\Users\Савелий Карагаев\Desktop\код для практики\For Saveliy\obj\Debug\For Saveliy.csproj.GenerateResource.cache
+C:\Users\Савелий Карагаев\Desktop\код для практики\For Saveliy\obj\Debug\For Saveliy.csproj.CoreCompileInputs.cache
+C:\Users\Савелий Карагаев\Desktop\код для практики\For Saveliy\obj\Debug\For Saveliy.exe
+C:\Users\Савелий Карагаев\Desktop\код для практики\For Saveliy\obj\Debug\For Saveliy.pdb
